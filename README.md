@@ -1,12 +1,10 @@
-Here is a **detailed system requirements document** for **ResuMaker**, an AI-powered resume builder using **.NET** technologies.  
 
 ---
 
 # **System Requirements Document**  
 ### **Project Name**: ResuMaker (AI Resume Generator)  
 ### **Version**: 1.0  
-### **Date**: [Insert Date]  
-### **Prepared By**: [Your Name/Company]  
+### **Date**: 27-Feb-2025  
 
 ---
 
