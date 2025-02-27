@@ -141,3 +141,82 @@
 **ResuMaker** will be a **fast, AI-powered resume builder** built on **.NET** with advanced **resume customization, export, and job-matching features**. It will be **scalable, secure, and optimized for ATS systems**, helping job seekers create **professional resumes effortlessly**.  
 
 ---
+
+## **1. Backend (API & Business Logic)**
+| **Technology** | **Why Use It?** |
+|--------------|-------------|
+| **.NET 7/8 (ASP.NET Core Web API)** | High performance, scalable, and modern framework for web applications |
+| **C#** | Strongly-typed, fast, and ideal for enterprise applications |
+| **Entity Framework Core** | ORM for easy database interactions |
+| **MediatR (CQRS Pattern)** | Improves API scalability and maintainability |
+| **Serilog** | Structured logging for debugging and monitoring |
+
+---
+
+## **2. AI Integration**
+| **Technology** | **Purpose** |
+|--------------|-------------|
+| **OpenAI GPT-4 API** | AI-generated resume content |
+| **LangChain.NET** | For enhanced AI prompt engineering & processing |
+| **Azure OpenAI / OpenAI SDK** | Alternative AI provider for security & enterprise integration |
+
+---
+
+## **3. Database (Storage)**
+| **Database** | **Why Use It?** |
+|-------------|----------------|
+| **SQL Server / PostgreSQL** | Relational database for structured resume storage |
+| **MongoDB (Optional)** | NoSQL for flexible document storage (if needed for user profiles) |
+| **Azure Cosmos DB** | Scalable cloud-based database (NoSQL) |
+| **Redis** | Caching layer for improved performance |
+
+---
+
+## **4. Frontend (User Interface)**
+| **Technology** | **Why Use It?** |
+|--------------|-------------|
+| **Blazor (WASM or Server)** | Native .NET frontend with high performance |
+| **React.js (Optional)** | If you prefer a JavaScript-based UI |
+| **Tailwind CSS / Bootstrap** | Modern, responsive UI design |
+| **ShadCN UI** | Pre-built UI components for professional design |
+
+---
+
+## **5. PDF Generation & File Handling**
+| **Technology** | **Why Use It?** |
+|--------------|-------------|
+| **iTextSharp / QuestPDF** | Generate professional resumes in PDF format |
+| **DocX (OpenXML SDK)** | Word document support for resumes |
+| **Azure Blob Storage / AWS S3** | Cloud storage for generated resumes |
+
+---
+
+## **6. Authentication & Security**
+| **Technology** | **Why Use It?** |
+|--------------|-------------|
+| **IdentityServer4** | Secure OAuth2 authentication |
+| **Azure AD B2C / Google Auth** | Social login options |
+| **JWT (JSON Web Tokens)** | Secure API authentication |
+| **AES-256 Encryption** | Protects user data |
+
+---
+
+## **7. Deployment & DevOps**
+| **Technology** | **Why Use It?** |
+|--------------|-------------|
+| **Azure App Service / AWS Lambda** | Cloud hosting for API |
+| **Docker & Kubernetes** | For containerization & scalability |
+| **GitHub Actions / Azure DevOps** | CI/CD pipeline automation |
+| **Terraform** | Infrastructure as Code (IaC) |
+
+---
+
+### **🔥 Best Stack for ResuMaker (Recommended)**
+✅ **Backend:** ASP.NET Core (.NET 8) + C#  
+✅ **Frontend:** Blazor (or React.js) + Tailwind CSS  
+✅ **Database:** PostgreSQL (or SQL Server)  
+✅ **AI:** OpenAI GPT-4 + LangChain.NET  
+✅ **PDF Handling:** iTextSharp / QuestPDF  
+✅ **Hosting:** Azure App Service + Docker  
+
+---
