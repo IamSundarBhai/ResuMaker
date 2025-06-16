@@ -211,6 +211,13 @@
 
 ---
 
+### **Prototype Screens**
+
+![Registration Page](https://github.com/user-attachments/assets/eb5e023f-5362-4651-ae67-ec56d2133ff8)
+
+
+---
+
 ### **🔥 Best Stack for ResuMaker (Recommended)**
 ✅ **Backend:** ASP.NET Core (.NET 8) + C#  
 ✅ **Frontend:** Blazor (or React.js) + Tailwind CSS  
