@@ -218,7 +218,13 @@ User Registration
 ![Registration Page](https://github.com/user-attachments/assets/eb5e023f-5362-4651-ae67-ec56d2133ff8)
 
 Login Page 
+
 ![Login Page](https://github.com/user-attachments/assets/de401162-dc8b-4cc3-86f4-103bb6f4946c)
+
+Main Page
+
+![Main Page](https://github.com/user-attachments/assets/422adbb6-6983-4f8f-acf7-cab9985818d5)
+
 
 
 ---
